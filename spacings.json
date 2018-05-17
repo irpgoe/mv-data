@@ -1,0 +1,19 @@
+{
+	"spacing": [
+		{
+			"citation": "Ait-Mou, 2016",
+			"sample": "rat",
+			"comment": "wildtype, 2.0 SL",
+			"muscle": "cardiac",
+			"d10": "38.3 nm"
+		},
+		{
+			"citation": "Peckham, 1989",
+			"sample": "frog",
+			"comment": "demembrenated, relaxed",
+			"muscle": "skeletal",
+			"d10": "41.5 nm"
+		},
+		{}
+	]
+}
