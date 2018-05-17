@@ -8,6 +8,27 @@
 			"d10": "38.3 nm"
 		},
 		{
+			"citation": "Ait-Mou, 2016",
+			"sample": "rat",
+			"comment": "wildtype, 2.4 SL (stretch)",
+			"muscle": "cardiac",
+			"d10": "37.0 nm"
+		},
+		{
+			"citation": "Ait-Mou, 2016",
+			"sample": "rat",
+			"comment": "homozygous rat, 2.0 SL",
+			"muscle": "cardiac",
+			"d10": "37.5 nm"
+		},
+		{
+			"citation": "Ait-Mou, 2016",
+			"sample": "rat",
+			"comment": "homozygous rat, 2.4 SL",
+			"muscle": "cardiac",
+			"d10": "36.3 nm"
+		},
+		{
 			"citation": "Peckham, 1989",
 			"sample": "frog",
 			"comment": "demembrenated, relaxed",
