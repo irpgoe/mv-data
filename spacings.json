@@ -41,6 +41,49 @@
 			"comment": "demembrenated, relaxed",
 			"muscle": "skeletal",
 			"d10": "38.7 nm"
-		}
+		},
+		{
+			"citation": "Kawai, 1993",
+			"sample": "rabbit",
+			"comment": "demembrenated, relaxed",
+			"muscle": "skeletal",
+			"d10": "42.2 nm"
+		},
+		{
+			"citation": "Kawai, 1993",
+			"sample": "rabbit",
+			"comment": "demembrenated, rigor",
+			"muscle": "skeletal",
+			"d10": "38.4 nm"
+		},
+		{
+			"citation": "Irving, 2000",
+			"sample": "rat",
+			"comment": "demembrenated, relaxed, SL 1.86",
+			"muscle": "cardiac",
+			"d10": "43.7 nm"
+		},
+		{
+			"citation": "Irving, 2000",
+			"sample": "rat",
+			"comment": "demembrenated, relaxed, SL 2.02",
+			"muscle": "cardiac",
+			"d10": "42.1 nm"
+		},
+		{
+			"citation": "Irving, 2000",
+			"sample": "rat",
+			"comment": "relaxed, SL 1.86",
+			"muscle": "cardiac",
+			"d10": "35.8 nm"
+		},
+		{
+			"citation": "Irving, 2000",
+			"sample": "rat",
+			"comment": "relaxed, SL 2.08",
+			"muscle": "cardiac ",
+			"d10": "35.0 nm"
+		},
+		{}
 	]
 }
