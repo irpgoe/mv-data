@@ -84,6 +84,68 @@
 			"muscle": "cardiac ",
 			"d10": "35.0 nm"
 		},
-		{}
+		{
+			"citation": "Matsubara, 1989",
+			"sample": "rat",
+			"comment": "demembrenated, relaxed",
+			"muscle": "cardiac",
+			"d10": "38.4 nm"
+		},
+		{
+			"citation": "Matsubara, 1989",
+			"sample": "rat",
+			"comment": "relaxed",
+			"muscle": "cardiac",
+			"d10": "35.6 nm"
+		},
+		{
+			"citation": "Matsubara, 1980",
+			"sample": "feline",
+			"comment": "relaxed, SL 2.2",
+			"muscle": "cardiac",
+			"d10": "37.0 nm"
+		},
+		{
+			"citation": "Matsubara, 1980",
+			"sample": "feline",
+			"comment": "rigor",
+			"muscle": "cardiac",
+			"d10": "40.0 nm"
+		},
+		{
+			"citation": "Matsubara, 1980",
+			"sample": "frog",
+			"comment": "relaxed, SL 2.2",
+			"muscle": "skeletal",
+			"d10": "36.7 nm"
+		},
+		{
+			"citation": "Matsubara, 1972",
+			"sample": "frog",
+			"comment": "demembrenated",
+			"muscle": "skeletal",
+			"d10": "37.5 nm"
+		},
+		{
+			"citation": "Matsubara, 1972",
+			"sample": "frog",
+			"comment": "demembrenated",
+			"muscle": "skeletal",
+			"d10": "?"
+		},
+		{
+			"citation": "Matsubara, 1972",
+			"sample": "frog",
+			"comment": "SL 2.0",
+			"muscle": "skeletal",
+			"d10": "38.4 nm"
+		},
+		{
+			"citation": "Matsubara, 1972",
+			"sample": "frog",
+			"comment": "SL 3.5",
+			"muscle": "skeletal",
+			"d10": "29.2 nm"
+		}
 	]
 }
