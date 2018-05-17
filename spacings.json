@@ -35,6 +35,12 @@
 			"muscle": "skeletal",
 			"d10": "41.5 nm"
 		},
-		{}
+		{
+			"citation": "Peckham, 1989",
+			"sample": "rabbit",
+			"comment": "demembrenated, relaxed",
+			"muscle": "skeletal",
+			"d10": "38.7 nm"
+		}
 	]
 }
