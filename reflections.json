@@ -1,0 +1,26 @@
+{
+	"spacing": [
+		{
+			"citation": "Gelse, 2003",
+			"origin": "?",
+			"description": "Collagen type 1",
+			"detail": "?",
+			"position": "~64-67 nm"
+		},
+		{
+			"citation": "Yagi, 2003",
+			"origin": "?",
+			"description": "Myofilament",
+			"detail": "?",
+			"position": "~38-43 nm"
+		},
+		{
+			"citation": "Ross, 1969",
+			"origin": "?",
+			"description": "Elastin fibers",
+			"detail": "?",
+			"position": "~100 nm"
+		},
+		{}
+	]
+}
